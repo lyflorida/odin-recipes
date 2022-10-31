@@ -11,8 +11,8 @@ body{
     padding-bottom:30px;
     margin-left:auto;
     margin-right:auto;
-    margin-top:30px;
-    margin-bottom:30px;
+    margin-top:80px;
+    margin-bottom:auto;
 }
 
 .title, .recipes{
@@ -21,10 +21,14 @@ body{
     width:1000px;
 }
 
+.recipes{
+    margin-bottom:40px;
+}
+
 .icon{
     display:inline-block;
     width:300px;
-    height:665px;
+    height:460px;
     margin-left:20px;
     background-color:rgb(245,245,245);
     box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
@@ -35,7 +39,7 @@ body{
 }
 
 .thumbnailpic{
-    height:600px;
+    height:400px;
     width:300px;
     object-fit:cover;
     object-position:center;
@@ -47,8 +51,8 @@ h1{
     font-size:80px;
     color:rgba(82, 106, 151, 0.836);
     text-align:center;
-    margin-top:0px;
-    margin-bottom:15px;
+    margin-top:40px;
+    margin-bottom:40px;
 }
 
 p{
