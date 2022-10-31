@@ -8,11 +8,10 @@ body{
     box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
     border-radius:10px;
     padding-top:15px;
-    padding-bottom:80px;
+    padding-bottom:40px;
     margin-left:auto;
     margin-right:auto;
     margin-top:30px;
-    margin-bottom:50px;
 }
 
 .title, .recipes{
@@ -47,6 +46,8 @@ h1{
     font-size:80px;
     color:rgba(82, 106, 151, 0.836);
     text-align:center;
+    margin-top:0px;
+    margin-bottom:15px;
 }
 
 p{
